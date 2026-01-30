@@ -6,9 +6,9 @@ Markdown to HTML slide decks. Built for demo day; rudimentary but usable.
 
 This was **created for demo day** and is **rudimentary** in function — good for quick markdown-to-slides, not a full presentation builder. Set your expectations accordingly: it does one job (convert markdown to a single self-contained HTML deck with click navigation) and does it simply.
 
-## General-purpose
+## General agent skill
 
-It’s not Cursor-only. This repo provides instructions (`SKILL.md`) and an HTML/CSS template (`template.html`) that any AI assistant, agent, or human can follow to produce the same style of slide deck. Cursor users can drop it into `.cursor/skills/create-slide-deck/`; others can use the same files as a spec + template.
+Instructions (`SKILL.md`) and an HTML/CSS template (`template.html`) that any AI agent, assistant, or human can follow to produce the same style of slide deck. Use as a skill in any environment that supports agent skills, or as a spec + template.
 
 ## What it does
 
@@ -24,13 +24,11 @@ Uses the provided `template.html` for styling and structure.
 
 ## Install
 
-- **Cursor**: Copy `SKILL.md` and `template.html` into your project’s `.cursor/skills/create-slide-deck/` (create the folder if needed). Or clone this repo and copy the repo contents into that path.
-- **Elsewhere**: Use `SKILL.md` as the spec and `template.html` as the base; any agent or script that follows the instructions can generate compatible decks.
+Copy `SKILL.md` and `template.html` into your agent’s skill directory (e.g. a `create-slide-deck` folder in your skills path), or use them as a spec and template for any tool.
 
 ## Usage
 
-- **In Cursor**: Ask to create slides from a markdown file or to convert markdown to a presentation; the agent will use this skill.
-- **With other tools**: Follow the workflow and conversion rules in `SKILL.md`.
+Ask your agent to create slides from a markdown file, or follow the workflow and conversion rules in `SKILL.md`.
 
 ## Input
 

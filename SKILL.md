@@ -260,8 +260,8 @@ Generate a single `index.html` file with:
 ### Navigation Rules
 
 - **Click zones are invisible** - No visible arrows or dots
-- **Right side of screen** = Next slide (cursor shows →)
-- **Left side of screen** = Previous slide (cursor shows ←)
+- **Right side of screen** = Next slide (pointer shows →)
+- **Left side of screen** = Previous slide (pointer shows ←)
 - First slide: Only next zone (no prev)
 - Last slide: Only prev zone (no next)
 
