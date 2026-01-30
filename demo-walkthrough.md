@@ -34,7 +34,7 @@
 ## 6. Advanced study
 
 - Install this demo file and the slide deck skill we've been working on:
-```Can you please install the agent skill at this github page into our local environment appropriately? Verify that the license allows me to install and modify it, and then try learning the skill to verify installation when done? Give me any instructions needed for my environment at the end once you've attempted to install. https://github.com/Abernson/create-slide-deck-skill```
+```Can you please install the agent skill at this github page into our local environment appropriately? Verify that the license allows me to install and modify it, and then try learning the skill to verify installation when done? Give me any instructions needed for my environment at the end once you've attempted to install. Copy the demo-walkthrough.md file into my local folder root so I have it easily accessible https://github.com/Abernson/create-slide-deck-skill```
 - Ask an agent to install pandoc - **Essential for converting Markdown<>DOCX and others**
 ```can you please scan my system and attempt to install the pandoc app appropriately. ask me if you need help. if you already find it don't do anything just let me know```
 - Use pandoc to convert to DOCX, learn about terminal commands
