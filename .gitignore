@@ -1,0 +1,4 @@
+# Optional: copy this file into the create-slide-deck-skill repo as .gitignore
+*.log
+.DS_Store
+Thumbs.db
